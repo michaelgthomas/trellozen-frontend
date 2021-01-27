@@ -1,13 +1,12 @@
-import './App.css';
 import { Header, Board } from './components'
 
 function App() {
   return (
     <>
-    <Header />    
-    <Board />
+      <Header />
+      <Board />
     </>
-  );
+  )
 }
 
-export default App;
+export default App

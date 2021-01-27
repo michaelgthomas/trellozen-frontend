@@ -1,3 +1,3 @@
-import { fetchLists } from './trellozen'
+import { fetchLists, addCard } from './trellozen'
 
-export { fetchLists }
+export { fetchLists, addCard }
